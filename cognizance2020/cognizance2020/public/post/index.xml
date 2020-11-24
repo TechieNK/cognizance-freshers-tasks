@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Cognizance 2020</title>
+    <link>https://cognizance2020.github.io/post/</link>
+    <description>Recent content in Posts on Cognizance 2020</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020. All rights reserved.</copyright>
+    <lastBuildDate>Tue, 24 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://cognizance2020.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Overview</title>
+      <link>https://cognizance2020.github.io/post/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cognizance2020.github.io/post/overview/</guid>
+      <description>Peer support occurs when people provide knowledge, experience, emotional, social or practical help to each other. It commonly refers to an initiative consisting of trained supporters (although it can be provided by peers without training), and can take a number of forms such as peer mentoring, reflective listening (reflecting content and/or feelings), or counseling. Peer support is also used to refer to initiatives where colleagues, members of self-help organizations and others meet, in person or online, as equals to give each other connection and support on a reciprocal basis.</description>
+    </item>
+    
+    <item>
+      <title>Git operations</title>
+      <link>https://cognizance2020.github.io/post/git_operation/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cognizance2020.github.io/post/git_operation/</guid>
+      <description>Basic Operations  the following is a summary of basic git operations:
+ git add  Puts current working files into the stage.
+  git checkout  Replaces the current working files with files from a branch.
+  git checkout -b  Creates a new local branch from the current branch&amp;rsquo;s tip.
+  git clone  Clone an existing repository into a new directory.
+  git commit  Commits staged changes to a local branch.</description>
+    </item>
+    
+  </channel>
+</rss>

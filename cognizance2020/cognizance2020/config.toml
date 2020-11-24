@@ -1,0 +1,80 @@
+baseURL = "https://cognizance2020.github.io/"
+languageCode = "en-us"
+title = "Cognizance 2020"
+theme = "blackburn"
+author = "cognizance2020"
+copyright = "&copy; 2020. All rights reserved."
+canonifyurls = true
+paginate = 10
+
+[indexes]
+  tag = "tags"
+  topic = "topics"
+
+[params]
+  # Shown in the home page
+  subtitle = "Peer Learning Initiative"
+  brand = "Cognizance"
+  googleAnalytics = "Your Google Analytics tracking ID"
+  disqus = "Your Disqus shortname"
+  # CSS name for highlight.js
+  highlightjs = "androidstudio"
+
+[menu]
+  # Shown in the side menu.
+  [[menu.main]]
+    name = "Overview"
+    weight = 1
+    identifier = "home"
+    url = "/post/overview/"
+  [[menu.main]]
+    name = "Timeline"
+    weight = 2
+    url = "/timeline/"
+  [[menu.main]]
+    name = "Task-1"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 3
+    identifier = "post"
+    url = "/post/"
+  [[menu.main]]
+    name = "Task-2"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 4
+    identifier = "about"
+    url = "/about/"
+  [[menu.main]]
+    name = "Task-3"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 5
+    url = "/contact/"
+  [[menu.main]]
+    name = "Task-4"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 6
+    url = "/post/git_operation/"
+  [[menu.main]]
+    name = "Task-5"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 7
+    url = "/"
+  [[menu.main]]
+    name = "Task-6"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 8
+    url = "/"   
+  [[menu.main]]
+    name = "Task-7"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 9
+    url = "/"
+  [[menu.main]]
+    name = "Task-8"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 10
+    url = "/"    
+    
+[social]
+  # Link your social networking accouns to the side menu
+  # by entering your username or ID.
+  github = "cognizance2020"
