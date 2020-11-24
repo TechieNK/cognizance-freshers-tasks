@@ -7,7 +7,7 @@ description = "Getting familiar with Git operations"
 
 ## Basic Operations
 
-> the following is a summary of basic git operations:
+> The following is a summary of basic git operations:
 
 ### git add
 
@@ -82,3 +82,9 @@ description = "Getting familiar with Git operations"
 ### git fork
 
 > Fork will create a copy of the repository in your GitHub account so that you can make changes to the project.
+
+------
+<!-- Links -->
+## Video References
+> [Basic Operation](https://www.youtube.com/playlist?list=PLB5jA40tNf3v1wdyYfxQXgdjPgQvP7Xzg)
+
