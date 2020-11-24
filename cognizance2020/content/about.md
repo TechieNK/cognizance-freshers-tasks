@@ -1,6 +1,6 @@
 +++
 title = "About"
-date = "2014-04-09"
+date = "2020-11-24"
 sidemenu = "true"
 description = "About me and this site"
 +++

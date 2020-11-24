@@ -31,7 +31,7 @@ paginate = 10
   [[menu.main]]
     name = "Timeline"
     weight = 2
-    url = "/"
+    url = "/timeline/"
   [[menu.main]]
     name = "Task-1"
     pre = "<i class='fa fa-list fa-fw'></i>"
