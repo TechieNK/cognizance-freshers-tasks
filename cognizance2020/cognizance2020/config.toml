@@ -35,7 +35,7 @@ paginate = 10
     name = "Task-1"
     pre = "<i class='fa fa-list fa-fw'></i>"
     weight = 3
-    url = "/"
+    url = "/post/git_setup/"
   [[menu.main]]
     name = "Task-2"
     pre = "<i class='fa fa-list fa-fw'></i>"

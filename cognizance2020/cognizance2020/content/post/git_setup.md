@@ -66,4 +66,8 @@ For example, you don't want one collaborator addressing a problem in a way that 
 
 ***Video Reference:*** [Setup GitHub Account](https://youtu.be/XaMiHHu_rb4)
 
+------
+
+#### After creating your GitHub account, you need to submit the GitHub username and email address in the form given below.
+
 
