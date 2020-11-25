@@ -5,10 +5,15 @@ sidemenu = "true"
 description = "Description of Pseudo Code "
 +++
 # Pseudo Code
-Pseudocode is an informal way of programming description that does not require any strict programming language syntax. It is used for creating an outline or a rough draft of a program. The pseudo code will be helpful for creating large modules of Programs.  
+
+Pseudocode is an informal way of programming description that does not require any strict programming language syntax. It is used for creating an outline or a rough draft of a program. The pseudo code will be helpful for creating large modules of Programs.
+
 An algorithm is a procedure for solving a problem in terms of the actions to be executed and the order in which those actions are to be executed. An algorithm is merely the sequence of steps taken to solve a problem. The steps are normally "sequence," "selection, " "iteration," and a case-type statement.
+
+
 ## Code
-![Flow Chart](/post/hqdefault.jpg)  
+
+![Flow Chart](/post/hqdefault.jpg) 
 
 As the above image explains the logic and flow of adding 5 numbers.
 * Start is used to begin program execution
@@ -20,5 +25,11 @@ As the above image explains the logic and flow of adding 5 numbers.
 	* if the count is more than 5 break the loop and proceed to print the sum.
 * Print the sum value
 * Terminate the program.
+
+------
+
 ## Task
+
+
+
 

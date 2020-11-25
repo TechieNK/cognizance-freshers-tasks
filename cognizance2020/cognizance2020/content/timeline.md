@@ -7,8 +7,9 @@ description = "Timeline for task completion"
 
 ## Commencement of tasks  
  
-**Deadline > 30-11-2020**  
-> You can start doing your tasks from now
+**Begins on > 30-11-2020** 
+
+	You can start doing your tasks from now
 
 ------
 

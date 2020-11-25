@@ -45,27 +45,27 @@ paginate = 10
     name = "Task-3"
     pre = "<i class='fa fa-list fa-fw'></i>"
     weight = 5
-    url = "/"
+    url = "/post/git_operation/"
   [[menu.main]]
     name = "Task-4"
     pre = "<i class='fa fa-list fa-fw'></i>"
     weight = 6
-    url = "/post/git_operation/"
+    url = "/post/markdown/"
   [[menu.main]]
     name = "Task-5"
     pre = "<i class='fa fa-list fa-fw'></i>"
     weight = 7
-    url = "/post/markdown/"
+    url = "/"
   [[menu.main]]
     name = "Task-6"
     pre = "<i class='fa fa-list fa-fw'></i>"
     weight = 8
-    url = "/"   
+    url = "/post/pseudo_code/"   
   [[menu.main]]
     name = "Task-7"
     pre = "<i class='fa fa-list fa-fw'></i>"
     weight = 9
-    url = "/post/pseudo_code/"
+    url = "/post/HTML_and_CSS/"
   [[menu.main]]
     name = "Task-8"
     pre = "<i class='fa fa-list fa-fw'></i>"
