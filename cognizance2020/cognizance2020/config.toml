@@ -40,7 +40,7 @@ paginate = 10
     name = "Task-2"
     pre = "<i class='fa fa-list fa-fw'></i>"
     weight = 4
-    url = "/"
+    url = "/post/version_control_system/"
   [[menu.main]]
     name = "Task-3"
     pre = "<i class='fa fa-list fa-fw'></i>"
