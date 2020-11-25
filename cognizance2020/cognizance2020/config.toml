@@ -67,10 +67,10 @@ paginate = 10
     weight = 9
     url = "/post/HTML_and_CSS/"
   [[menu.main]]
-    name = "Task-8"
+    name = "Project"
     pre = "<i class='fa fa-list fa-fw'></i>"
     weight = 10
-    url = "/"    
+    url = "/post/Self_learning/"    
     
 [social]
   # Link your social networking accouns to the side menu
