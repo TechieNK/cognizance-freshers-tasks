@@ -12,7 +12,7 @@ Peer learning is a potentially powerful way of sharing knowledge about doing pub
 
 Peer support occurs when people provide knowledge, experience, emotional, social or practical help to each other. It commonly refers to an initiative consisting of trained supporters (although it can be provided by peers without training), and can take a number of forms such as peer mentoring, reflective listening (reflecting content and/or feelings), or counseling. Peer support is also used to refer to initiatives where colleagues, members of self-help organizations and others meet, in person or online, as equals to give each other connection and support on a reciprocal basis.
 
-Peer support is distinct from other forms of social support in that the source of support is a peer, a person who is similar in fundamental ways to the recipient of the support; their relationship is one of equality. A peer is in a position to offer support by virtue of relevant experience: he or she has "been there, done that" and can relate to others who are now in a similar situation
+Peer support is distinct from other forms of social support in that the source of support is a peer, a person who is similar in fundamental ways to the recipient of the support; their relationship is one of equality. A peer is in a position to offer support by virtue of relevant experience: he or she has "been there, done that" and can relate to others who are now in a similar situation.
 
 
 ## Collaborative learning:
