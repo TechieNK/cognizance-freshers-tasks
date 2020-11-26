@@ -55,7 +55,7 @@ paginate = 10
     name = "Task-5"
     pre = "<i class='fa fa-list fa-fw'></i>"
     weight = 7
-    url = "/post/presentation/"
+    url = "/post/"
   [[menu.main]]
     name = "Task-6"
     pre = "<i class='fa fa-list fa-fw'></i>"
@@ -72,7 +72,3 @@ paginate = 10
     weight = 10
     url = "/post/Self_learning/"    
     
-[social]
-  # Link your social networking accouns to the side menu
-  # by entering your username or ID.
-  github = "cognizance2020"
