@@ -68,6 +68,10 @@ For example, you don't want one collaborator addressing a problem in a way that 
 
 ------
 
-#### After creating your GitHub account, you need to submit the GitHub username and email address in the form given below.
+## Task
 
+```
+Create a GitHub account. After creating, you need to submit the GitHub username and email
+address in the form given below.
+```
 

@@ -19,7 +19,9 @@ CSS saves a lot of work. It can control the layout of multiple web pages all at 
 Click to join the course -> [CSS](https://www.codecademy.com/learn/learn-css)
 
 ------
-<!-- Horizontal Rule -->
+
+## Task
+
 **After completion of the courses take screenshot of the course completion and we will give a Google form to submit the screenshot.**
 
 ------

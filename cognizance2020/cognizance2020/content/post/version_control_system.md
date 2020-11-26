@@ -26,7 +26,11 @@ A version control system or VCS, also know as revision control or source control
 * Distributed Version Control Systems  
 ---
 <!-- Horizontal Rule -->
-![](/post/download.png)
+> ![](/post/download.png)
+------
 # Task
-Take screenshot of the Local repository in your computer and upload it in the Google form.
+
+Kindly see the video and install git bash in your system and set your username and useremail in the Git Bash. ->[Installing Git](https://www.youtube.com/watch?v=YXXp_ht4pwQ&list=PLB5jA40tNf3v1wdyYfxQXgdjPgQvP7Xzg&index=6)  
+
+Take screenshot of the terminal using **git config --list --show-origin** commannd in your computer and upload it in the Google form.
 

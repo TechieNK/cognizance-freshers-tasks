@@ -5,6 +5,8 @@ sidemenu = "true"
 description = "Getting familiar with Git operations"
 +++
 
+To use Git, developers use specific commands to copy, create, change, and combine code. These commands can be executed directly from the command line or by using an application like GitHub Desktop or Git Kraken. 
+
 ## Basic Operations
 
 > The following is a summary of basic git operations:
@@ -92,12 +94,14 @@ description = "Getting familiar with Git operations"
 
 ------
 
-<!-- Links -->
-## Video References
+***Video Reference:*** [Basic Operation](https://www.youtube.com/playlist?list=PLB5jA40tNf3v1wdyYfxQXgdjPgQvP7Xzg)
 
-==> [Basic Operation](https://www.youtube.com/playlist?list=PLB5jA40tNf3v1wdyYfxQXgdjPgQvP7Xzg) <==
+------
+### Task 
 
-
+1. Create a repository with name 'Cognizance2020' on your personal GitHub Profile. 
+2. Perform all the git operations in the repository. 
+3. This task should be submitted before (December 8th, 11:59pm). Late submission will not be considered by any chance.
 
 
 

@@ -42,6 +42,12 @@ Setext-style headers are “underlined” using equal signs (for first-level hea
 
 > id sem consectetuer libero luctus adipiscing.
 ------
-<!-- Links -->
-[Link to know the syntax for markdown language](https://youtu.be/HUBNt18RFbo)
+***Video Reference:*** [Syntax for markdown language](https://youtu.be/HUBNt18RFbo)
+
+------
+## Task 
+
+1. After creating the repositary with the name "Cognizance2020", add one of the coolest project (or) program you have worked on with proper documentation(Readme).
+2. There should be atleast 5 commits in the repository at the time of submission.
+3. Late submission will not be encouraged by any chance.
 

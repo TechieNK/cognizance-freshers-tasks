@@ -30,6 +30,8 @@ As the above image explains the logic and flow of adding 5 numbers.
 
 ## Task
 
+Write a pseudo code and a flow chart for finding the given number is an armstrong number or not.
 
+**Note:** Pseudo code must be written by your own.
 
 
