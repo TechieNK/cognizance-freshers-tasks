@@ -26,49 +26,56 @@ paginate = 10
     name = "Overview"
     weight = 1
     identifier = "home"
-    url = "/post/overview/"
+    url = "/post/overview/"	
   [[menu.main]]
-    name = "Timeline"
+    name = "Sample Task"
+    pre = "<i class='fa fa-list fa-fw'></i>"
     weight = 2
-    url = "/timeline/"
-  [[menu.main]]
-    name = "Task-1"
-    pre = "<i class='fa fa-list fa-fw'></i>"
-    weight = 3
-    url = "/post/git_setup/"
-  [[menu.main]]
-    name = "Task-2"
-    pre = "<i class='fa fa-list fa-fw'></i>"
-    weight = 4
-    url = "/post/version_control_system/"
-  [[menu.main]]
-    name = "Task-3"
-    pre = "<i class='fa fa-list fa-fw'></i>"
-    weight = 5
-    url = "/post/git_operation/"
-  [[menu.main]]
-    name = "Task-4"
-    pre = "<i class='fa fa-list fa-fw'></i>"
-    weight = 6
-    url = "/post/markdown/"
-  [[menu.main]]
-    name = "Task-5"
-    pre = "<i class='fa fa-list fa-fw'></i>"
-    weight = 7
-    url = "/post/presentation/"
-  [[menu.main]]
-    name = "Task-6"
-    pre = "<i class='fa fa-list fa-fw'></i>"
-    weight = 8
-    url = "/post/pseudo_code/"   
-  [[menu.main]]
-    name = "Task-7"
-    pre = "<i class='fa fa-list fa-fw'></i>"
-    weight = 9
-    url = "/post/HTML_and_CSS/"
-  [[menu.main]]
-    name = "Project"
-    pre = "<i class='fa fa-list fa-fw'></i>"
-    weight = 10
-    url = "/post/Self_learning/"    
-    
+    url = "/post/Sample_task"
+#  [[menu.main]]
+#   name = "Timeline"
+#    weight = 2
+#    url = "/timeline/"
+#  [[menu.main]]
+#    name = "Task-1"
+#    pre = "<i class='fa fa-list fa-fw'></i>"
+#    weight = 3
+#    url = "/post/git_setup/"
+#  [[menu.main]]
+#    name = "Task-2"
+#    pre = "<i class='fa fa-list fa-fw'></i>"
+#    weight = 4
+#    url = "/post/version_control_system/"
+#  [[menu.main]]
+#    name = "Task-3"
+#    pre = "<i class='fa fa-list fa-fw'></i>"
+#    weight = 5
+#    url = "/post/git_operation/"
+#  [[menu.main]]
+#    name = "Task-4"
+#    pre = "<i class='fa fa-list fa-fw'></i>"
+#    weight = 6
+#    url = "/post/markdown/"
+#  [[menu.main]]
+#    name = "Task-5"
+#    pre = "<i class='fa fa-list fa-fw'></i>"
+#    weight = 7
+#    url = "/post/presentation/"
+#  [[menu.main]]
+#    name = "Task-6"
+#    pre = "<i class='fa fa-list fa-fw'></i>"
+#    weight = 8
+#    url = "/post/pseudo_code/"   
+#  [[menu.main]]
+#    name = "Task-7"
+#    pre = "<i class='fa fa-list fa-fw'></i>"
+#    weight = 9
+#    url = "/post/HTML_and_CSS/"
+#  [[menu.main]]
+#    name = "Pro+ject"
+#    pre = "<i class='fa fa-list fa-fw'></i>"
+#    weight = 10
+#    url = "/post/Self_learning/"   
+  
+  
+  
