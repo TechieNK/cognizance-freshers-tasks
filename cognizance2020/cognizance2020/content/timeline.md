@@ -15,12 +15,12 @@ description = "Timeline for task completion"
 
 ## Git Setup  
 
-**Deadline > 02-12-2020**  
+**Deadline > 01-12-2020**  
 
     > Complete Git development environment
 
 ------
-
+<!--
 ## Version Control System  
 
 **Deadline > 04-12-2020**  
@@ -69,4 +69,5 @@ description = "Timeline for task completion"
     > Completing HTML & CSS courses from Codecademy
 
 ------
+-->
 
