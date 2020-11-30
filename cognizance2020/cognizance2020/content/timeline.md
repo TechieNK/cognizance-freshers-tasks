@@ -20,15 +20,15 @@ description = "Timeline for task completion"
     > Complete Git development environment
 
 ------
-<!--
+
 ## Version Control System  
 
-**Deadline > 04-12-2020**  
+**Deadline > 03-12-2020**  
 
     > Local setup of Version Control System
 
 ------
-
+<!--
 ## Operations on Git  
 
 **Deadline > 08-12-2020**  

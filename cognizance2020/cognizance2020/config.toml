@@ -32,15 +32,19 @@ paginate = 10
     weight = 2
     url = "/timeline/"
   [[menu.main]]
+   name = "Leaderboard"
+    weight = 3
+    url = "/leaderboard/"
+  [[menu.main]]
     name = "Task-1"
     pre = "<i class='fa fa-list fa-fw'></i>"
-    weight = 3
+    weight = 4
     url = "/post/git_setup/"
-#  [[menu.main]]
-#    name = "Task-2"
-#    pre = "<i class='fa fa-list fa-fw'></i>"
-#    weight = 4
-#    url = "/post/version_control_system/"
+  [[menu.main]]
+    name = "Task-2"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 5
+    url = "/post/version_control_system/"
 #  [[menu.main]]
 #    name = "Task-3"
 #    pre = "<i class='fa fa-list fa-fw'></i>"
