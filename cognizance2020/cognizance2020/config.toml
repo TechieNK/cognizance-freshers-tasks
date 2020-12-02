@@ -45,11 +45,11 @@ paginate = 10
     pre = "<i class='fa fa-list fa-fw'></i>"
     weight = 5
     url = "/post/version_control_system/"
-#  [[menu.main]]
-#    name = "Task-3"
-#    pre = "<i class='fa fa-list fa-fw'></i>"
-#    weight = 5
-#    url = "/post/git_operation/"
+  [[menu.main]]
+    name = "Task-3"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 6
+    url = "/post/git_operation/"
 #  [[menu.main]]
 #    name = "Task-4"
 #    pre = "<i class='fa fa-list fa-fw'></i>"

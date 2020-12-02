@@ -7,7 +7,7 @@ description = "Timeline for task completion"
 
 ## Commencement of tasks  
  
-**Begins on > 30-11-2020**   
+**Begins on > 30-11-2020 12:00:00 AM**   
 
 	You can start doing your tasks from now
 
@@ -15,7 +15,7 @@ description = "Timeline for task completion"
 
 ## Git Setup  
 
-**Deadline > 01-12-2020**  
+**Deadline > 30-11-2020 11:59:59 PM**  
 
     > Complete Git development environment
 
@@ -23,21 +23,21 @@ description = "Timeline for task completion"
 
 ## Version Control System  
 
-**Deadline > 03-12-2020**  
+**Deadline > 02-12-2020 11:59:59 PM**  
 
     > Local setup of Version Control System
 
 ------
-<!--
+
 ## Operations on Git  
 
-**Deadline > 08-12-2020**  
+**Deadline > 04-12-2020 11:59:59 PM**  
 
     > Getting familiar with Git operations like pull, 
       push, commit, merge, rebase, fork etc.,
 
 ------
-
+<!--
 ## Markdown language  
 
 **Deadline > 10-12-2020**  
