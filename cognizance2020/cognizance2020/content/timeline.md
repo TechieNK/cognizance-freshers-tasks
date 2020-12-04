@@ -31,7 +31,7 @@ description = "Timeline for task completion"
 
 ## Operations on Git  
 
-**Deadline > 04-12-2020 11:59:59 PM**  
+**Deadline > 05-12-2020 11:59:59 PM**  
 
     > Getting familiar with Git operations like pull, 
       push, commit, merge, rebase, fork etc.,
