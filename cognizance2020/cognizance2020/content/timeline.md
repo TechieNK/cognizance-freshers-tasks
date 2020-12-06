@@ -33,19 +33,19 @@ description = "Timeline for task completion"
 
 **Deadline > 05-12-2020 11:59:59 PM**  
 
-    > Getting familiar with Git operations like pull, 
-      push, commit, merge, rebase, fork etc.,
+    > Getting familiar with Git operations like pull,push, commit, merge, rebase, 
+      fork, etc.,
 
 ------
-<!--
+
 ## Markdown language  
 
-**Deadline > 10-12-2020**  
+**Deadline > 7-12-2020 11:59:59 PM**  
 
     > Writing professional documents with markdown language
 
 ------
-
+<!--
 ## Presentation skills  
 
 **Deadline > 14-12-2020**  

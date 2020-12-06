@@ -39,7 +39,7 @@ paginate = 10
     name = "Task-1"
     pre = "<i class='fa fa-list fa-fw'></i>"
     weight = 4
-    url = "/post/git_setup/"
+    url = "/post/git_setup/" 
   [[menu.main]]
     name = "Task-2"
     pre = "<i class='fa fa-list fa-fw'></i>"
@@ -50,15 +50,14 @@ paginate = 10
     pre = "<i class='fa fa-list fa-fw'></i>"
     weight = 6
     url = "/post/git_operation/"
+  [[menu.main]]
+    name = "Task-4"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 7
+    url = "/post/markdown/"
 #  [[menu.main]]
-#    name = "Task-4"
 #    pre = "<i class='fa fa-list fa-fw'></i>"
-#    weight = 6
-#    url = "/post/markdown/"
-#  [[menu.main]]
-#    name = "Task-5"
-#    pre = "<i class='fa fa-list fa-fw'></i>"
-#    weight = 7
+#    weight = 8
 #    url = "/post/presentation/"
 #  [[menu.main]]
 #    name = "Task-6"

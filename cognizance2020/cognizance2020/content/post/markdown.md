@@ -47,7 +47,11 @@ Setext-style headers are “underlined” using equal signs (for first-level hea
 ------
 ## Task 
 
-1. After creating the repositary with the name "Cognizance2020", add one of the coolest project (or) program you have worked on with proper documentation(Readme).
+1. Add one of the coolest project (or) program you have worked on with proper documentation(README) in the repository you created  for task-3.
 2. There should be atleast 5 commits in the repository at the time of submission.
-3. Late submission will not be encouraged by any chance.
+3. Try to include images, bullet point, lists, tables, blockquotes, etc... in your README.md 
+4. Marks for this task depends on your creativity.
+
+**Submission:** ==>[Submission Form](https://docs.google.com/forms/u/1/d/e/1FAIpQLSfmh_V2EVeBxWMqKCUN2fMOZL9_oxSnVV95nI6EiZ7IdVoOVQ/viewform?usp=sf_link)<==
+
 

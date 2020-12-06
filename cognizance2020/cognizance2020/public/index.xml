@@ -51,6 +51,17 @@ Basic Operations  The following is a summary of basic git operations:
     </item>
     
     <item>
+      <title>Markdown Language</title>
+      <link>https://cognizance2020.github.io/post/markdown/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cognizance2020.github.io/post/markdown/</guid>
+      <description>What is Markdown Language?  Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
+ How do I use Markdown language?  1.Create a Markdown file using a text editor or a dedicated Markdown application.
+  2.Open the Markdown file in a Markdown application.</description>
+    </item>
+    
+    <item>
       <title>Timeline</title>
       <link>https://cognizance2020.github.io/timeline/</link>
       <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
@@ -60,7 +71,7 @@ Basic Operations  The following is a summary of basic git operations:
 You can start doing your tasks from now   Git Setup Deadline &amp;gt; 30-11-2020 11:59:59 PM
 &amp;gt; Complete Git development environment   Version Control System Deadline &amp;gt; 02-12-2020 11:59:59 PM
 &amp;gt; Local setup of Version Control System   Operations on Git Deadline &amp;gt; 05-12-2020 11:59:59 PM
-&amp;gt; Getting familiar with Git operations like pull, push, commit, merge, rebase, fork etc.</description>
+&amp;gt; Getting familiar with Git operations like pull,push, commit, merge, rebase, fork, etc.</description>
     </item>
     
     <item>
