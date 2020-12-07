@@ -45,15 +45,15 @@ description = "Timeline for task completion"
     > Writing professional documents with markdown language
 
 ------
-<!--
+
 ## Presentation skills  
 
-**Deadline > 14-12-2020**  
+**Deadline > 12-12-2020 11:59:59 PM**  
 
     > Making professional presentation adhere to technical standards
 
 ------
-
+<!--
 ## Pseudo code  
 
 **Deadline > 18-12-2020**  

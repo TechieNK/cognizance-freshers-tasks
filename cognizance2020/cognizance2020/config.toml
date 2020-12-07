@@ -55,10 +55,11 @@ paginate = 10
     pre = "<i class='fa fa-list fa-fw'></i>"
     weight = 7
     url = "/post/markdown/"
-#  [[menu.main]]
-#    pre = "<i class='fa fa-list fa-fw'></i>"
-#    weight = 8
-#    url = "/post/presentation/"
+  [[menu.main]]
+    name = "Task-5"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 8
+    url = "/post/presentation/"
 #  [[menu.main]]
 #    name = "Task-6"
 #    pre = "<i class='fa fa-list fa-fw'></i>"
