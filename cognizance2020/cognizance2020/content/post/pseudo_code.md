@@ -34,4 +34,12 @@ Write a pseudo code and a flow chart for finding the given number is an armstron
 
 **Note:** Pseudo code must be written by your own.
 
+## Submission
+```
+Create a folder with name "Task-6" in the Cognizance2020 repository and upload the pseudo code 
+and flow chart. Submit the Github link in the form below.
+```
+ 
+==>[Submission Form](https://docs.google.com/forms/d/e/1FAIpQLScRY4oDbKs-a3LUboWePoyZbycXmiwNhz6N3lUuxWNyuD8T7g/viewform?usp=sf_link)<==
+
 

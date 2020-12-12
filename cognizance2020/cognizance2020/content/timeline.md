@@ -53,15 +53,15 @@ description = "Timeline for task completion"
     > Making professional presentation adhere to technical standards
 
 ------
-<!--
+
 ## Pseudo code  
 
-**Deadline > 18-12-2020**  
+**Deadline > 14-12-2020**  
 
     > Writing pseudo code for basic logics
 
 ------
-
+<!--
 ## HTML & CSS Course  
 
 **Deadline > 29-12-2020**  
