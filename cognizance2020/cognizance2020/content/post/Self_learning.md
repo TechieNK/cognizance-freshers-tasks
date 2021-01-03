@@ -2,7 +2,7 @@
 title = "Self Learning Project"
 date = "2020-11-24"
 sidemenu = "true"
-description = "Project based upon the HTML and CSS"
+description = "Project based upon the HTML and CSS. This task is optional"
 +++
 
 ## What is Self Learning?

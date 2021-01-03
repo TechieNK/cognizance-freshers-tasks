@@ -56,18 +56,18 @@ description = "Timeline for task completion"
 
 ## Pseudo code  
 
-**Deadline > 14-12-2020**  
+**Deadline > 14-12-2020 11:59:59 PM**  
 
     > Writing pseudo code for basic logics
 
 ------
-<!--
+
 ## HTML & CSS Course  
 
-**Deadline > 29-12-2020**  
+**Deadline > 02-01-2021 11:59:59 PM**  
 
     > Completing HTML & CSS courses from Codecademy
 
 ------
--->
+
 

@@ -65,16 +65,16 @@ paginate = 10
     pre = "<i class='fa fa-list fa-fw'></i>"
     weight = 9
     url = "/post/pseudo_code/"   
-#  [[menu.main]]
-#    name = "Task-7"
-#    pre = "<i class='fa fa-list fa-fw'></i>"
-#    weight = 9
-#    url = "/post/HTML_and_CSS/"
-#  [[menu.main]]
-#    name = "Pro+ject"
-#    pre = "<i class='fa fa-list fa-fw'></i>"
-#    weight = 10
-#    url = "/post/Self_learning/"   
+  [[menu.main]]
+    name = "Task-7"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 10
+    url = "/post/HTML_and_CSS/"
+  [[menu.main]]
+    name = "Project"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 11
+    url = "/post/Self_learning/"   
   
   
   
