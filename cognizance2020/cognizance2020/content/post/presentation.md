@@ -36,15 +36,6 @@ Presentation skills are a set of abilities that enable an individual to interact
 ```
 ------
 
-## Submission:
-
-``````
-Submission link will be provided here on the final day of the task submission.  
-
-There won't be any considerations on delayed submissions.  
-``````
-**Submission:** ==>[Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSddwGyolHqQ1oDw4b022tgWUdSdNM9Rb2L-1QUBGooRS-IolQ/viewform?usp=sf_link)<==
-
-
+Create a folder named "Task-5" in the Cognizance repository and upload your presentation. 
 
 

@@ -69,12 +69,7 @@ For example, you don't want one collaborator addressing a problem in a way that 
 ------
 
 ## Task
-#### The GitHub username is case-sensitive, so please be careful while submitting.
 ```
-Create a GitHub account. After creating, you need to submit the GitHub username and email
-address in the form given below.
+Create a GitHub account.
 ```
-The submission of this task will be evaluated by an automation in place. So, late submission will not be considered at any cost.
-
-**Submission:** ==>[Submission Form](https://docs.google.com/forms/d/e/1FAIpQLScpyp5MpJqHAUf0VS5m0d9Hw4DmUQwDGZgT8GW8az6miGb9nQ/viewform?usp=sf_link)<==
 

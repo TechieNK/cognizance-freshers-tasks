@@ -34,7 +34,5 @@ Kindly see the video and install git bash in your system and set your username a
 
 ***Video Reference:*** [Installing Git](https://www.youtube.com/watch?v=YXXp_ht4pwQ&list=PLB5jA40tNf3v1wdyYfxQXgdjPgQvP7Xzg&index=6)  
 
-Take screenshot of the git bash using **git config -****-list -****-show-origin** command in your computer and upload it through the form below.
-
-**Submission:** ==>[Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSe2eYu36YJnc-P2nHaXZrMGONMxN28pIDehuIbfL9Bz8KA1yA/viewform?usp=sf_link)<==
+Take screenshot of the git bash using **git config -****-list -****-show-origin** command in your computer.
 

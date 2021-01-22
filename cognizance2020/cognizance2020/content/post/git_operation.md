@@ -99,10 +99,9 @@ To use Git, developers use specific commands to copy, create, change, and combin
 ------
 ### Task 
 
-1. Create a repository with name "Cognizance2020" on GitHub using Git Bash.
-2. Create a folder with name "Task-3" in the repository and perform the Git operations using Git Bash.
-3. Take a screenshot of all the Git operations you performed and compile it in a single PDF and submit along with your repository URL in the submission form.
-
-**Submission:** ==>[Submission Form](https://docs.google.com/forms/d/e/1FAIpQLScoFV7u0z_Y5SlnSjIj0jSjgoM_0BFSlxw_LiFfsBjKdguMBA/viewform?usp=sf_link)<==
-
+1. Create a repository with name "Cognizance" on GitHub using Git Bash.
+2. Create a folder with name "Task-2" in the repository and upload the screenshot of Task-2.
+3. Create a folder with name "Task-3" in the repository and perform the Git operations using Git Bash.
+4. Take a screenshot of all the Git operations you performed and compile it in a single PDF and upload it in "Task-3" folder
+ 
 

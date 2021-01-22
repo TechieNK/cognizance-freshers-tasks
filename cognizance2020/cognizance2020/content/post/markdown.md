@@ -47,11 +47,8 @@ Setext-style headers are “underlined” using equal signs (for first-level hea
 ------
 ## Task 
 
-1. Add one of the coolest project (or) program you have worked on with proper documentation(README) in the repository you created  for task-3.
-2. There should be atleast 5 commits in the repository at the time of submission.
-3. Try to include images, bullet point, lists, tables, blockquotes, etc... in your README.md 
-4. Marks for this task depends on your creativity.
-
-**Submission:** ==>[Submission Form](https://docs.google.com/forms/u/1/d/e/1FAIpQLSfmh_V2EVeBxWMqKCUN2fMOZL9_oxSnVV95nI6EiZ7IdVoOVQ/viewform?usp=sf_link)<==
+1. Create a folder named "Task-4" in the Cognizance repository and add one of the coolest project (or) program you have worked on with proper documentation(README).
+2. Try to include images, bullet point, lists, tables, blockquotes, etc... in your README.md 
+3. Creativity matters in this task.
 
 

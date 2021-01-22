@@ -1,6 +1,6 @@
 baseURL = "https://cognizance2020.github.io/"
 languageCode = "en-us"
-title = "Cognizance 2020"
+title = "Cognizance"
 theme = "blackburn"
 author = "cognizance2020"
 copyright = "&copy; 2020. All rights reserved."
@@ -28,52 +28,44 @@ paginate = 10
     identifier = "home"
     url = "/post/overview/"	
   [[menu.main]]
-   name = "Timeline"
-    weight = 2
-    url = "/timeline/"
-  [[menu.main]]
-   name = "Leaderboard"
-    weight = 3
-    url = "/leaderboard/"
-  [[menu.main]]
     name = "Task-1"
     pre = "<i class='fa fa-list fa-fw'></i>"
-    weight = 4
+    weight = 2
     url = "/post/git_setup/" 
   [[menu.main]]
     name = "Task-2"
     pre = "<i class='fa fa-list fa-fw'></i>"
-    weight = 5
+    weight = 3
     url = "/post/version_control_system/"
   [[menu.main]]
     name = "Task-3"
     pre = "<i class='fa fa-list fa-fw'></i>"
-    weight = 6
+    weight = 4
     url = "/post/git_operation/"
   [[menu.main]]
     name = "Task-4"
     pre = "<i class='fa fa-list fa-fw'></i>"
-    weight = 7
+    weight = 5
     url = "/post/markdown/"
   [[menu.main]]
     name = "Task-5"
     pre = "<i class='fa fa-list fa-fw'></i>"
-    weight = 8
+    weight = 6
     url = "/post/presentation/"
   [[menu.main]]
     name = "Task-6"
     pre = "<i class='fa fa-list fa-fw'></i>"
-    weight = 9
+    weight = 7
     url = "/post/pseudo_code/"   
   [[menu.main]]
     name = "Task-7"
     pre = "<i class='fa fa-list fa-fw'></i>"
-    weight = 10
+    weight = 8
     url = "/post/HTML_and_CSS/"
   [[menu.main]]
     name = "Project"
     pre = "<i class='fa fa-list fa-fw'></i>"
-    weight = 11
+    weight = 9
     url = "/post/Self_learning/"   
   
   

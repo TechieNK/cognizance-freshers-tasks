@@ -2,33 +2,26 @@
 title = "HTML and CSS courses"
 date = "2020-11-24"
 sidemenu = "true"
-description = "Completion of HTML and CSS courses in Codecademy"
+description = "Completion of HTML and CSS courses in Coursera"
 +++
-# HTML and CSS course in Codecademy
-For the final and last task, You have to complete the Courses in Codecademy 
+# HTML and CSS course in Coursera
+For the final and last task, You have to complete the Courses in Coursera 
 ## These courses will be able to improve your imagination and creative mind.  
 The HTML course is HTML (Hypertext Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables.  
-Click to join the course -> [HTML](https://www.codecademy.com/learn/learn-html)  
+Click to join the course -> [HTML]()  
 
 ------
 <!-- Horizontal Rule -->
 The CSS stands for Cascading Style Sheets, CSS describes how HTML elements are to be displayed on screen, paper, or in other media
 CSS saves a lot of work. It can control the layout of multiple web pages all at once, External stylesheets are stored in CSS files.  
-Click to join the course -> [CSS](https://www.codecademy.com/learn/learn-css)
+Click to join the course -> [CSS]()
 
 ------
 
 ## Task
 
-**After completion of the courses take screenshot of the course completion submit the screenshot.**
+**After completion of the courses take screenshot of the course completion upload the screenshot in Task-7 folder in the Cognizance repository**
 	
-	NO need of purchasing the course for certification. We will be evaluating you by 
-	conducting a contest.
+	No need of purchasing the course for certification. 
 
-## Submission
-```
-Create a folder task 7 in the Cognizance2020 repository and add the screenshot in the folder. 
-And submit the GitHub link of the folder of Task 7 in the Google form.
-``` 	
-==>[Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSdZrH9JLQQWLk3J4JEwvzLsZoG7SfNHxeNzvIg_jitNNVGSIQ/viewform?usp=sf_link)<==
 
